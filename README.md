@@ -1,1 +1,2 @@
-# cpu-scheduling-algorithms
+This project is C++ Console App for CPU Scheduling Algorithms (First Come, First Served (FCFS),Round Robin (RR) scheduling
+,Shortest Job First SJF Non- preemptive,Shortest Job First SJF preemptive) it takes the Burst time and Arrival time of each CPUs process from the User and then prints the Gantt chart, Average Turn Around Time, Average waiting time, Average Respons Time, throughput, CPU Utilization, and print table contain: process number, Arrival time, Burst time, Turn Around Time, waiting time, Respons Time.
