@@ -1,0 +1,9 @@
+﻿  OS Project.cpp
+C:\Users\Kamel\OneDrive\Desktop\OS Project\OS Project.cpp(46,11): warning C4101: 'cpu_utilization': unreferenced local variable
+C:\Users\Kamel\OneDrive\Desktop\OS Project\OS Project.cpp(318,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kamel\OneDrive\Desktop\OS Project\OS Project.cpp(332,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamel\OneDrive\Desktop\OS Project\OS Project.cpp(337,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kamel\OneDrive\Desktop\OS Project\OS Project.cpp(417,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kamel\OneDrive\Desktop\OS Project\OS Project.cpp(444,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kamel\OneDrive\Desktop\OS Project\OS Project.cpp(938,63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  OS Project.vcxproj -> C:\Users\Kamel\OneDrive\Desktop\OS Project\x64\Debug\OS Project.exe
